@@ -1,0 +1,28 @@
+{
+  "name": "mevuzarot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "is-positive-integer": "^1.1.1",
+    "is-positive-number": "^1.0.2",
+    "mongodb": "^3.5.8",
+    "mongoose": "^5.12.10",
+    "mongoose-id-validator": "^0.6.0",
+    "objectid": "^2.3.0",
+    "schema": "^0.2.1",
+    "validate-date": "^2.0.0",
+    "validator": "^13.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
