@@ -3,5 +3,5 @@ In this exercise, I implemented a management system for a service of a travel co
 Goes out on a variety of routes, which allow various discount coupons for trips for years. The information is written to a MongoDB database
 Each storage service allows the group of CRUD operations consisting of Create, Read, Update, Delete to be performed on the stored object.
 Screens of the site
-![image](https://github.com/Yehudit-Granot-Yalon/TravelCloudTripManager/assets/83513315/58dac098-da5d-455a-9113-fbd365c04165)
+![image](C:\Users\Administrator\Downloads\Launch Your Story in Dark Green Pastel Blue Simple Vibrant Minimalism Style (1) (1).png)
 
